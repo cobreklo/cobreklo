@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hola, soy Claudio (Cobre) 👋
 
-<!--
-**cobreklo/cobreklo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Informática en Duoc UC (Santiago, Chile) y desarrollador Full-Stack. Me apasiona construir aplicaciones web dinámicas, diseñar arquitecturas de microservicios y aprender continuamente sobre ciberseguridad e inteligencia artificial.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudiante de Ingeniería en Informática, enfocado en el desarrollo de software escalable.
+- 💻 Trabajo activamente en proyectos full-stack, desde interfaces de usuario rápidas hasta APIs robustas.
+- 🌐 Puedes explorar mi portafolio, herramientas web y otros proyectos en [cobrechan.dev](https://cobrechan.dev).
+- 🎮 En mi tiempo libre, configuro y administro servidores multijugador (como Minecraft con plugins personalizados) y exploro el uso de modelos de IA locales.
+- Pronombres: che/co/pe/te.
+
+## 🛠️ Tecnologías y Herramientas
+
+**Lenguajes y Frontend:**
+- JavaScript, TypeScript, React, Vite, Tailwind CSS
+
+**Backend y Bases de Datos:**
+- Java, Spring Boot, MySQL, OpenFeign
+
+**DevOps, Cloud y Herramientas:**
+- Git, GitHub, Docker, Vercel, AWS ECS, Firebase, Resend
+- Entornos de ciberseguridad (Kali Linux, Nmap, Metasploit)
+
+## 📈 Estadísticas y Contacto
+
+- 💼 **Portafolio:** [cobrechan.dev](https://cobrechan.dev)
+- ✉️ **Contacto:** A través del formulario en mi sitio web o revisando mis repositorios públicos.
+
+---
+*Siempre dispuesto a colaborar en proyectos interesantes y seguir escribiendo código limpio.*
