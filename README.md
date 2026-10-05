@@ -7,7 +7,6 @@ Soy estudiante de Ingeniería en Informática en Duoc UC (Santiago, Chile) y des
 - 🎓 Estudiante de Ingeniería en Informática, enfocado en el desarrollo de software escalable.
 - 💻 Trabajo activamente en proyectos full-stack, desde interfaces de usuario rápidas hasta APIs robustas.
 - 🌐 Puedes explorar mi portafolio, herramientas web y otros proyectos en [cobrechan.dev](https://cobrechan.dev).
-- 🎮 En mi tiempo libre, configuro y administro servidores multijugador (como Minecraft con plugins personalizados) y exploro el uso de modelos de IA locales.
 - Pronombres: che/co/pe/te.
 
 ## 🛠️ Tecnologías y Herramientas
